@@ -44,8 +44,8 @@
   },
   "origin":3,
   "parent":{
-    "name":"arpg",
-    "path":"arpg.yyp",
+    "name":"delivery system",
+    "path":"folders/delivery system.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_preview",
+  "%Name":"obj_init",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_preview",
+  "name":"obj_init",
   "overriddenProperties":[],
   "parent":{
-    "name":"ability system",
-    "path":"folders/ability system.yy",
+    "name":"arpg",
+    "path":"arpg.yyp",
   },
   "parentObjectId":null,
   "persistent":false,

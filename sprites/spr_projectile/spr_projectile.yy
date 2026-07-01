@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"arpg",
-    "path":"arpg.yyp",
+    "name":"delivery system",
+    "path":"folders/delivery system.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
