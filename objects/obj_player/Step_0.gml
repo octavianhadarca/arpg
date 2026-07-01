@@ -15,6 +15,9 @@ if (_input_x != 0 || _input_y != 0) {
 
 look_dir = point_direction(x, y, mouse_x, mouse_y);
 
+self.ability_caster.update();
+self.targeting_manager.update();
+
 var _old_sprite = sprite_index;
 
 if (_input_x != 0 || _input_y != 0) {

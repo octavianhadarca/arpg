@@ -1,0 +1,1 @@
+self.ability = pointer_null;

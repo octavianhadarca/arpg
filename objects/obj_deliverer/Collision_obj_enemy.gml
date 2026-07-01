@@ -1,0 +1,1 @@
+behaviour.on_collide(other);
