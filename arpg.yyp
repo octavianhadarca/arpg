@@ -19,8 +19,10 @@
   },
   "name":"arpg",
   "resources":[
+    {"id":{"name":"obj_entity","path":"objects/obj_entity/obj_entity.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
+    {"id":{"name":"scr_game_data","path":"scripts/scr_game_data/scr_game_data.yy",},},
     {"id":{"name":"scr_stat_system","path":"scripts/scr_stat_system/scr_stat_system.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
   ],
