@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_stat_system",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_stat_system",
+  "parent":{
+    "name":"arpg",
+    "path":"arpg.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
