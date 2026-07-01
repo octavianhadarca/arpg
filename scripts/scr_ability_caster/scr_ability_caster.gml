@@ -8,7 +8,7 @@ function ability_caster(_targeting_manager) constructor {
     
     static update = function() {
         for (var _i = 0; _i < array_length(hotbar); _i++) {
-            if (keyboard_check_pressed(ord(string(1 + _i)))) {
+            if (InputPressed(_i)) {
                 hotbar[_i].target(self.targeting_manager);
             }
         }
